@@ -1,4 +1,4 @@
-### WeatherPulse – Weather Dashboard
+# WeatherPulse – Weather Dashboard
 ## WeatherPulse Screenshot
 
 
