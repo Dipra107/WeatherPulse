@@ -25,5 +25,5 @@ WeatherPulse lets users check real-time weather for any city. It fetches data fr
 - Responsive layout using Tailwind CSS  
 - Modern UI with clean design
 
-**Live Demo:** [WeatherPulse Demo](https://YOUR_WEATHERPULSE_LINK_HERE)  
-**Repo:** [GitHub](https://github.com/Dipra107/weather-app)
+**Live Demo:** [WeatherPulse Demo](https://weatherpulse11.netlify.app/)  
+**Repo:** [GitHub](https://github.com/Dipra107/WeatherPulse)
