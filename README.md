@@ -1,5 +1,6 @@
 ### WeatherPulse – Weather Dashboard
-![WeatherPulse Screenshot](https://via.placeholder.com/600x300.png?text=WeatherPulse+App)
+![WeatherPulse Screenshot](<img width="580" height="854" alt="image" src="https://github.com/user-attachments/assets/37c72cf7-a5bd-4af4-919d-a8b25617129a" />
+)
 
 ## 💻 Tech Stack
 
