@@ -1,5 +1,5 @@
 ### WeatherPulse – Weather Dashboard
-![WeatherPulse Screenshot]
+##WeatherPulse Screenshot
 
 
 <img width="580" height="854" alt="image" src="https://github.com/user-attachments/assets/99fb1f16-68ef-4f5b-bb96-77ab6eb92678" />
